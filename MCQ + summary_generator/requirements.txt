@@ -1,0 +1,7 @@
+transformers
+sentence_transformers
+openai
+pdfplumber
+nltk
+streamlit
+tiktoken
